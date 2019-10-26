@@ -301,7 +301,7 @@ msgstr "{0}.html"
 
 #: Editor.java:1843 Sketch.java:1612
 msgid "Compiling sketch..."
-msgstr "...ترجمة الشيفرة البرمجية"
+msgstr "...تجميع الرسم"
 
 
 #: Editor.java:1864 Editor.java:1881
@@ -493,7 +493,7 @@ msgstr "http://www.arduino.cc/latest.txt"
 msgid ""
 "A new version of Arduino is available,\n"
 "would you like to visit the Arduino download page?"
-msgstr "إصدار جديد من الأردوينو متوفر ,/n هل ترغب بزيارة صفحة تحميل الأردوينو"
+msgstr "إصدار جديد من الأردوينو متوفر ,\n هل ترغب بزيارة صفحة تحميل الأردوينو"
 
 
 #: UpdateCheck.java:108 Preferences.java:76
